@@ -3,6 +3,6 @@
 #include <stdio.h> 
  
 void print_status() { 
-    printf("Status: Operational\n"); 
+    printf("Status: Operational (Feature Custom)\n"); 
 } 
 #endif
